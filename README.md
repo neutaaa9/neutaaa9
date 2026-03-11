@@ -1,7 +1,4 @@
  ## бе бе бе
-   <img src="https://64.media.tumblr.com/13ddd1bd6342d57bb665392d9c2031db/954e41ed49cb5cd0-12/s640x960/c7c931e1799f86c95484c8f4936cef2bd37e0697.pnj" width="100%" />
-</div>
-
 <div align="center">
   <img src="https://media1.tenor.com/m/4Rh2tqo7l1YAAAAC/ikutowa-karoltowa.gif" width="100%" />
 </div>
@@ -10,5 +7,4 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/13ddd1bd6342d57bb665392d9c2031db/954e41ed49cb5cd0-12/s640x960/c7c931e1799f86c95484c8f4936cef2bd37e0697.pnj" width="100%" />
 </div>
-  <img src="https://64.media.tumblr.com/13ddd1bd6342d57bb665392d9c2031db/954e41ed49cb5cd0-12/s640x960/c7c931e1799f86c95484c8f4936cef2bd37e0697.pnj" width="100%" />
-</div>
+  <
