@@ -1,14 +1,4 @@
  ## бе бе бе
- <img src="https://64.media.tumblr.com/6c73829b1123a481688c7b03e916f799/08136fe14c0616a2-ca/s100x200/96a43c1f226758d7bc2a8f92818c06fb08c6c7ab.gifv" width="25%" />
-</div> <img src="https://64.media.tumblr.com/5dffbff17645cd40969896307b4f6156/08136fe14c0616a2-47/s100x200/be0a7497d06ce728159c422f15302542991dc96a.gifv" width="25%" />
-</div> <img src="https://64.media.tumblr.com/30eed9e8404e1ab55ec41527291e5f30/08136fe14c0616a2-99/s100x200/6aaa77012c9f868291db2ba88c1728af6c0c643c.gifv" width="25%" />
-</div>
- <img src="https://64.media.tumblr.com/8ced5b284ec2a5fd4ab7a7bc6eefd1aa/08136fe14c0616a2-ad/s100x200/f89c6b626294f2e18d57f9df26d942f564207f9d.gifv" width="25%" />
-</div> <img src="https://64.media.tumblr.com/5dffbff17645cd40969896307b4f6156/08136fe14c0616a2-47/s100x200/be0a7497d06ce728159c422f15302542991dc96a.gifv" width="25%" />
-</div> <img src="https://64.media.tumblr.com/30eed9e8404e1ab55ec41527291e5f30/08136fe14c0616a2-99/s100x200/6aaa77012c9f868291db2ba88c1728af6c0c643c.gifv" width="25%" />
-</div>
-
-
 <div align="center">
   <img src="https://media1.tenor.com/m/4Rh2tqo7l1YAAAAC/ikutowa-karoltowa.gif" width="100%" />
 </div>
