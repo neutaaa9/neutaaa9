@@ -1,4 +1,7 @@
  ## бе бе бе
+ <div align="center">
+  <img src="https://media1.tenor.com/m/4Rh2tqo7l1YAAAAC/ikutowa-karoltowa.gif" width="100%" />
+</div>
 <div align="center">
   <img src="https://media1.tenor.com/m/4Rh2tqo7l1YAAAAC/ikutowa-karoltowa.gif" width="100%" />
 </div>
