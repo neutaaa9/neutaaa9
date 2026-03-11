@@ -5,9 +5,6 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/4Rh2tqo7l1YAAAAC/ikutowa-karoltowa.gif" width="100%" />
 </div>
-<div align="center">
-  <img src="https://64.media.tumblr.com/9b8deb118991b685794033b991a9468d/2a25a5e1abd64440-ce/s1280x1920/b5f8a9756eb0bbd9962af09ad591e8f32e23e709.jpg" width="60%" />
-</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neutaaa9&style=for-the-badge&label=views&color=FFAFE6" alt="Просмотры профиля"/>
 <h1 align="center"
 <div align="center">
