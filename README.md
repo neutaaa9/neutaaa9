@@ -26,4 +26,5 @@
   <img src="https://64.media.tumblr.com/34d9935b7292f0b8974b651ce68be4e1/ed086471e51cf974-4b/s250x400/3d351d736577d13901b4f6574e841465538495c2.gifv" width="25%" />
   <img src="https://i.ibb.co/x870YcHN/stamp-1773333223-181f5f5056e34ba78e23ac3d8bcd99d2.gif" width="25%" />
   <img src="https://i.ibb.co/9H1KdpTp/stamp-1773332343-1b4876b25c034abea669937eae6968f0.gif" width="25%" />
+  <img src="https://i.ibb.co/QFNCCLdW/stamp-1773333791-3ee7da3ad64846f6b6675f07ee9c3235.png" width="25%" />
   
