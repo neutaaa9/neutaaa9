@@ -21,8 +21,4 @@
   <img src="https://64.media.tumblr.com/440ff7e251508a80c18d6b1684be59eb/449ce3f8e030d4fe-dd/s500x750/a9d4c407215058168a5e8fe004f60fc663e065cd.gifv" width="60%" />
 </div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/43e30ec1f67f3fba368a464afd7aecd5/c10e2667b8f5f9b7-8b/s100x200/2dc06aceb4711170eee643854e4f4009f4c6d266.pnj" width="25%" />
-  <img src="https://64.media.tumblr.com/10b835083c028e9c3eb785929da711bd/b16efdc9f7d63f13-9c/s100x200/fe762cccb1b19243fb000e7b6f7840435cb420c7.gifv" width="25%" />
-  <img src="https://64.media.tumblr.com/34d9935b7292f0b8974b651ce68be4e1/ed086471e51cf974-4b/s250x400/3d351d736577d13901b4f6574e841465538495c2.gifv" width="25%" />
-  <img src="https://i.ibb.co/QvFGSmDv/stamp-1773329012-aff3e27bbdd44b35b92f2172e21f935f.gif" width="25%" />
   
