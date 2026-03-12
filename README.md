@@ -21,7 +21,7 @@
   <img src="https://64.media.tumblr.com/440ff7e251508a80c18d6b1684be59eb/449ce3f8e030d4fe-dd/s500x750/a9d4c407215058168a5e8fe004f60fc663e065cd.gifv" width="60%" />
 </div>
  <div align="center">
-<img src="https://i.ibb.co/HZxV61n/blinkies-Cafe-7p.gif" width="35%" />
+<img src="https://i.ibb.co/S4cH3VRy/blinkies-Cafe-pw.gif" width="35%" />
 <div align="center">
  <img src="https://i.ibb.co/dy6H1qv/stamp-1773338953-7d3b4a91307b416c8c859d1ea5d0ad99.png" width="25%" />
  <img src="https://64.media.tumblr.com/43e30ec1f67f3fba368a464afd7aecd5/c10e2667b8f5f9b7-8b/s100x200/2dc06aceb4711170eee643854e4f4009f4c6d266.pnj" width="25%" />
