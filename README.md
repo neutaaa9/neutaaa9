@@ -32,6 +32,6 @@
   <img src="https://i.ibb.co/Tx7rr01H/stamp-1773336100-01e63ff2087e422a912455213ade8297.gif" width="25%" />
  <img src="https://64.media.tumblr.com/ac5c5a4f4945a354cbd606970f5ebb10/4160be3cc2b84620-06/s400x600/3586033a6c70062869fcfd6183ea925d5e98ca42.gifv" width="75%" />
   <img src="https://i.ibb.co/9H1KdpTp/stamp-1773332343-1b4876b25c034abea669937eae6968f0.gif" width="25%" />
-  <img src="https://i.ibb.co/jPn5mWD0/stamp-1773338394-4b327ec587444998a5915248203423b1.png" width="25%" />
+  <img src="https://i.ibb.co/Ps37HkvG/stamp-1773340565-267940d5a7f84c49ab0633f76122deab.png" width="25%" />
   <img src="https://i.ibb.co/9CTKRj3/stamp-1773340112-ffb130890d104bb3a047442e22689136.png" width="25%" />
   
