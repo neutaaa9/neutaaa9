@@ -55,7 +55,10 @@
   <img src="https://i.ibb.co/hx9RgMKh/stamp-1773412772-27bbbce3026c406eaea0af8529606539.png" width="20%" />
  </div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/63a948394f7ee92d4d65e59a0e852e38/2a25a5e1abd64440-e8/s250x400/f4ce09d16faa195eedea3de23b6b27f96d4e23fd.gifv" width="35%" />
+ <img src="https://64.media.tumblr.com/55ff3d27ab5df8bda7e9b029fceb1b83/b34e06d8da14d72d-0f/s75x75_c1/27574f613c0c3854dd1ce031df8ec3c20b548b9d.gifv" width="10%" />
+  <img src="https://64.media.tumblr.com/c184d3693472f2cf346d75849ad3f0d2/b34e06d8da14d72d-d7/s75x75_c1/c730c199ed2f1e7793e608b0499fb08dc511ca30.gifv" width="10%" />
+ <img src="https://64.media.tumblr.com/a4731ab6edc8ed4a903be00f65546e4a/b34e06d8da14d72d-15/s75x75_c1/778353b9974025f47139654fe966e25bae4dff0b.gifv" width="10%" />
+  <img src="https://64.media.tumblr.com/b6f9a1d30b44cbb3e3ccab427b46646e/b34e06d8da14d72d-36/s75x75_c1/3c416f3697dfa3298ee73f15309c03cc3f54ec2f.webp" width="10%" />
 </div>
 <div align="center">
   <img src="https://64.media.tumblr.com/81898057ebc80ad3c4610012b72abfff/4160be3cc2b84620-3f/s250x400/70fa04baa731ba3da7a7972980e4210f5ee5158f.gifv" width="100%" />
