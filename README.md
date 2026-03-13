@@ -51,5 +51,5 @@
 <div align="center">
   <img src="https://i.ibb.co/fGBDdmFR/stamp-1773412835-46fcd43604274429b66bda8f3c556876.png" width="20%" />
   <img src="https://i.ibb.co/kgpSDz4w/stamp-1773412452-7e81fd3e9dae4fc4a4f1c8d6df59bc1d.gif" width="20%" />
-  <img src="https://i.ibb.co/tTmpQXVK/stamp-1773412673-89dc460cbe804f7ea50f41d36dfd8911.png" width="20%" />
+  <img src="https://i.ibb.co/G3M0QghY/stamp-1773413737-a0bee1140f3c4a23bb18ea9f84759996.gif" width="20%" />
   <img src="https://i.ibb.co/hx9RgMKh/stamp-1773412772-27bbbce3026c406eaea0af8529606539.png" width="20%" />
