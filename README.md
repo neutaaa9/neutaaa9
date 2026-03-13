@@ -32,7 +32,7 @@
   <img src="https://64.media.tumblr.com/ac5c5a4f4945a354cbd606970f5ebb10/4160be3cc2b84620-06/s400x600/3586033a6c70062869fcfd6183ea925d5e98ca42.gifv" width="75%" />
  </div>
   <div align="center">
-  <img src="https://i.ibb.co/TDZBhFyb/stamp-1773336324-abe19c17e8424685a067a5e255eafada.gif" width="20%" /> 
+  <img src="https://i.ibb.co/yn5KPVSZ/stamp-1773396618-dfe49d2afb3441719805ad587b484a79.gif" width="20%" /> 
   <img src="https://i.ibb.co/x870YcHN/stamp-1773333223-181f5f5056e34ba78e23ac3d8bcd99d2.gif" width="20%" />
   <img src="https://i.ibb.co/Tx7rr01H/stamp-1773336100-01e63ff2087e422a912455213ade8297.gif" width="20%" />
   <img src="https://i.ibb.co/S7wvQcMc/stamp-1773350202-19d70a94c7ff45d4a8ddb68bc5a42f6b.gif" width="20%" />
