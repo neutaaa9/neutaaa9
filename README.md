@@ -45,3 +45,11 @@
   <img src="https://i.ibb.co/Ps37HkvG/stamp-1773340565-267940d5a7f84c49ab0633f76122deab.png" width="20%" />
   <img src="https://i.ibb.co/9CTKRj3/stamp-1773340112-ffb130890d104bb3a047442e22689136.png" width="20%" />
   <img src="https://i.ibb.co/JWx296L5/stamp-1773353591-930666a9d49f4e90b1c1b480f2e7a91b.gif" width="20%" />
+<div align="center">
+  <img src="https://64.media.tumblr.com/ac5c5a4f4945a354cbd606970f5ebb10/4160be3cc2b84620-06/s400x600/3586033a6c70062869fcfd6183ea925d5e98ca42.gifv" width="75%" />
+ </div>
+<div align="center">
+  <img src="https://i.ibb.co/fGBDdmFR/stamp-1773412835-46fcd43604274429b66bda8f3c556876.png" width="20%" />
+  <img src="https://i.ibb.co/kgpSDz4w/stamp-1773412452-7e81fd3e9dae4fc4a4f1c8d6df59bc1d.gif" width="20%" />
+  <img src="https://i.ibb.co/tTmpQXVK/stamp-1773412673-89dc460cbe804f7ea50f41d36dfd8911.png" width="20%" />
+  <img src="https://i.ibb.co/hx9RgMKh/stamp-1773412772-27bbbce3026c406eaea0af8529606539.png" width="20%" />
