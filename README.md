@@ -60,5 +60,3 @@
  <img src="https://64.media.tumblr.com/a4731ab6edc8ed4a903be00f65546e4a/b34e06d8da14d72d-15/s75x75_c1/778353b9974025f47139654fe966e25bae4dff0b.gifv" width="10%" />
   <img src="https://64.media.tumblr.com/b6f9a1d30b44cbb3e3ccab427b46646e/b34e06d8da14d72d-36/s75x75_c1/3c416f3697dfa3298ee73f15309c03cc3f54ec2f.webp" width="10%" />
 </div>
-<div align="center">
-  <img src="https://64.media.tumblr.com/81898057ebc80ad3c4610012b72abfff/4160be3cc2b84620-3f/s250x400/70fa04baa731ba3da7a7972980e4210f5ee5158f.gifv" width="100%" />
